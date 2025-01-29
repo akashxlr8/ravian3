@@ -1,0 +1,10 @@
+plotly
+autogen_ext==0.4.3
+pandas==2.2.3
+autogen==0.7.2
+autogen_agentchat==0.4.3
+streamlit==1.41.1
+openai==1.60.2
+python-dotenv==1.0.1
+loguru==0.7.3
+tiktoken==0.8.0
